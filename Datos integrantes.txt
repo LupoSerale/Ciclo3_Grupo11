@@ -1,7 +1,9 @@
 Datos de los colaboradores
 
-Jhon Calderon Madrid, Técnico Profesoonal en Ingeniería de Sistemas vivo en Santa Marta, tengo 35 años y tengo conocimientos en desarrollo web con PHP, MySQL y Bootstrap, poseo conocimientos básicos en HTML y CSS
+Jhon Calderon Madrid, Técnico Profesoonal en Ingeniería de Sistemas de la Corporación Unificada Nacional - CUN, vivo en Santa Marta, tengo 35 años y tengo conocimientos en desarrollo web con PHP, MySQL y Bootstrap, poseo conocimientos básicos en HTML y CSS
 
 Mateo Mancera Martínez. Tengo 22 años. Soy estudiante de Licenciatura en Física en la Universidad Distrital, vivo en el municipio de Guasca, Cundinamarca. En mi carrera estudie C++ para desarrollar programas de simulación científica y ahora me emociona aplicar estos conocimientos al campo educativo, especialmente de la educacion ambiental. 
 
 Arturo Corpas Ulloa. Tengo 34 años soy Tecnologo en salud, Soy estudiante de Desarrollo de Software en 3 semestre, he visto de forma superficial html, css y java, c++.
+
+Mileidis Ruiz Morelos Tecnologa en Administracion de Redes de Computadores, vivo en Medellin y tengo 36 años.
